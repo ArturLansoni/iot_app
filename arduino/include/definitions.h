@@ -1,0 +1,1 @@
+#define pinPiezo 2
